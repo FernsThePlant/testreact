@@ -1,4 +1,5 @@
 .NavbarItems {
     background: linear-gradient(yellow, orange);
     height: 80px;
+    margin: 10px;
 }
